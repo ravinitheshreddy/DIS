@@ -23,8 +23,8 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 | 19/10     | **Midterm** |                             | Word Embeddings and Link-based Retrieval [[slides][5p], [lab][5l]] |
 | 26/10     | -           | Data Mining                 | Frequent Itemsets Mining [[slides][6p], [lab][6l]]                 |
 | 02/11     | -           |                             | Clustering and Classification [[slides][7p], [lab][7l]]            |
-| 09/11     | **Quiz 1**  |                             | Classification Methodology <!--[[slides][8p], [lab][8l]]--> |
-| 16/11     | -           |                             | Document Classification and Recommender <!--[[slides][9p], [lab][9l]]--> |
+| 09/11     | **Quiz 1**  |                             | Classification Methodology [[slides][8p], [lab][8l]]               |
+| 16/11     | -           |                             | Document Classification and Recommender [[slides][9p], [lab][9l]]  |
 | 23/11     | -           |                             | Social Network Mining <!--[[slides][10p], [lab][10l]]--> |
 | 30/11     | -           | From Documents to Knowledge | Semantic Web <!--[[slides][11p], [lab][11l]]--> |
 | 07/12     | **Quiz 2**  |                             | Entity and Information Extraction <!--[[slides][12p], [lab][12l]]--> |
@@ -35,8 +35,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 
 We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
 
-Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years:
-[2019 Poll Answers](https://github.com/LSIR/DIS/blob/master/Extras/2019-Polls), [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
+Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years: [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
 
 
 The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
